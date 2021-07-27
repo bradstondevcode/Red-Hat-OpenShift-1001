@@ -3,7 +3,7 @@
 This webinar will try to demystify RHOS and teach you all you need to know to begin your OpenShift journey. This is the first part of a series of webinars in the Red Hat OpenShift 1000 Series which aims to give developers a step-by-step guide on the basics RHOS and how to leverage its capabilities. 
 
 
-## 🔥 Important Workshop First Steps 🔥
+## 🔥 Important Webinar First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfahW)
 - ✅ Download PDF of Webinar in Repo
