@@ -34,7 +34,7 @@ Red Hat OpenShift 101: Learn about Enterprise Kubernetes
 Red Hat OpenShift 101 continued: Hybrid Cloud with Kubernetes, Logging and Databases
 [Webinar on Crowdcast](http://ibm.biz/red-hat-101-pt2-crowdcast-03192021)
 
-Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast]((https://www.crowdcast.io/e/level-up-your-skills-get-2) with David Nugent[@drnugent)[https://twitter.com/drnugent]
+Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast](https://www.crowdcast.io/e/level-up-your-skills-get-2) with David Nugent[@drnugent](https://twitter.com/drnugent)
 
 
 ## Feel Free to Follow Me on Social Media
