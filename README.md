@@ -6,7 +6,7 @@ This webinar will try to demystify RHOS and teach you all you need to know to be
 ## 🔥 Important Webinar First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfahW)
-- ✅ Download PDF of Webinar in Repo
+- ✅ Download PDF of Webinar in Repo (Can be downloaded Above)
 - ✅ Check out blog version of Webinar [here](https://dev.to/ibmdeveloper/red-hat-openshift-1001-what-is-red-hat-openshift-and-why-does-it-matter-64n)
 
 
