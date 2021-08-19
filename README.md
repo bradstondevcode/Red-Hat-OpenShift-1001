@@ -13,7 +13,7 @@ This webinar will try to demystify RHOS and show you all you need to know to beg
 ## 🔥 Important Workshop First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/Bdfnsj)
-- ✅ Download PDF of Webinar in Repo: [View Here]()
+- ✅ Download PDF of Webinar in Repo: [Download Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1001/main/RHOS_1001-08_19_2021.pdf)
 - ✅ Check out blog version of Webinar [here](https://dev.to/ibmdeveloper/red-hat-openshift-1001-what-is-red-hat-openshift-and-why-does-it-matter-64n)
 - ✅ Feel Free to Sign-up for ["Red Hat Openshift 1002: Containers and How to Use Them"](https://ibm.biz/red-hat-openshift-1002-09092021)
 
@@ -28,7 +28,7 @@ Thanks in Advance!
 
 ### Resources in Repo
 
-- Workshop Slides: [View Here]()
+- Workshop Slides: [Download Here](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1001/main/RHOS_1001-08_19_2021.pdf)
 
 ### Watch Replays of Sessions
 
